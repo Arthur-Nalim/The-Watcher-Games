@@ -1,0 +1,32 @@
+{
+    "versions": {
+        "v1": {
+            "name": "The Watcher V1",
+            "url": "https://github.com/Arthur-Nalim/The-Watcher-Games/raw/main/The%20Watcher.exe"
+        },
+        "v2": {
+            "name": "The Watcher V2",
+            "url": "https://github.com/Arthur-Nalim/The-Watcher-Games/raw/main/The%20Watcher%20V2.exe"
+        },
+        "v3": {
+            "name": "The Watcher V3",
+            "url": "https://github.com/Arthur-Nalim/The-Watcher-Games/raw/main/The%20Watcher%20V3.exe"
+        },
+        "v4": {
+            "name": "The Watcher V4",
+            "url": "https://github.com/Arthur-Nalim/The-Watcher-Games/raw/main/The%20Watcher%20V4.exe"
+        },
+        "v5": {
+            "name": "The Watcher V5",
+            "url": "https://github.com/Arthur-Nalim/The-Watcher-Games/raw/main/The%20Watcher%20V5.exe"
+        },
+        "a26": {
+            "name": "The Watcher A26",
+            "url": "https://github.com/Arthur-Nalim/The-Watcher-Games/raw/main/The%20Watcher%20A26.exe"
+        },
+        "v6": {
+            "name": "The Watcher V6 - Part 1",
+            "url": "https://github.com/Arthur-Nalim/The-Watcher-Games/raw/main/The%20Watcher%20V6%20-%20Part%201.exe"
+        }
+    }
+}
