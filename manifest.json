@@ -9,6 +9,31 @@
       "name": "The Watcher V2",
       "url": "https://github.com/Arthur-Nalim/The-Watcher-Games/raw/main/The%20Watcher%20V2.exe",
       "size": "18 MB"
+    },
+    "v3": {
+      "name": "The Watcher V3",
+      "url": "https://github.com/Arthur-Nalim/The-Watcher-Games/raw/main/The%20Watcher%20V3.exe",
+      "size": "20 MB"
+    },
+    "v4": {
+      "name": "The Watcher V4",
+      "url": "https://github.com/Arthur-Nalim/The-Watcher-Games/raw/main/The%20Watcher%20V4.exe",
+      "size": "22 MB"
+    },
+    "v5": {
+      "name": "The Watcher V5",
+      "url": "https://github.com/Arthur-Nalim/The-Watcher-Games/raw/main/The%20Watcher%20V5.exe",
+      "size": "25 MB"
+    },
+    "a26": {
+      "name": "The Watcher A26",
+      "url": "https://github.com/Arthur-Nalim/The-Watcher-Games/raw/main/The%20Watcher%20A26.exe",
+      "size": "10 MB"
+    },
+    "v6": {
+      "name": "The Watcher V6 - Part 1",
+      "url": "https://github.com/Arthur-Nalim/The-Watcher-Games/raw/main/The%20Watcher%20V6%20-%20Part%201.exe",
+      "size": "30 MB"
     }
   }
 }
